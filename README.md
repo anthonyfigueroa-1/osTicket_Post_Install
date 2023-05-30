@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket Install</h1>
+<h1>osTicket Post Install</h1>
 This tutorial outlines the post installation of the open-source help desk ticketing system osTicket.<br />
 
 
@@ -19,7 +19,7 @@ This tutorial outlines the post installation of the open-source help desk ticket
 
 <h2>Prerequisites<h2>
 
-- Have followed and completed the steps to [install osTicket]().
+- Have followed and completed the steps to [install osTicket](https://github.com/anthonyfigueroa-1/osTicket_Installation).
 
 <h2>Steps</h2>
 

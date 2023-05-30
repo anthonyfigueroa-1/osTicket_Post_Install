@@ -38,7 +38,7 @@ This tutorial outlines the post installation of the open-source help desk ticket
 <br />
 
   <p>
-<img src="https://i.imgur.com/aAnNnkh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gjCc6I5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
   
   - Configure Departments
@@ -59,17 +59,26 @@ This tutorial outlines the post installation of the open-source help desk ticket
 <br />
   
   <p>
-<img src="https://i.imgur.com/DZkA3YW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MYQAeU1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
   
   - Allow anyone to create tickets
     - Admin Panel -> Settings -> User Settings
-    - Registration Required: Require registration and login to create tickets 
+    - Registration Required: Require registration and login to create tickets, make sure it's unchecked
   
 <br />
   
   <p>
-<img src="https://i.imgur.com/DZkA3YW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nn5k9Jv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+   <p>
+<img src="https://i.imgur.com/vozAy4o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+   <p>
+<img src="https://i.imgur.com/J0p3FQM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+   <p>
+<img src="https://i.imgur.com/ibpwr4J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
   
   - Configure Agents (workers)
@@ -80,7 +89,10 @@ This tutorial outlines the post installation of the open-source help desk ticket
 <br />
   
   <p>
-<img src="https://i.imgur.com/DZkA3YW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9Aj1Rmr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+    <p>
+<img src="https://i.imgur.com/OwZmkC8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
   
   - Configure Users (customers)
@@ -91,7 +103,7 @@ This tutorial outlines the post installation of the open-source help desk ticket
 <br />
   
   <p>
-<img src="https://i.imgur.com/DZkA3YW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kM581Qe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
   
   - Configure SLA
@@ -103,7 +115,7 @@ This tutorial outlines the post installation of the open-source help desk ticket
 <br />
   
   <p>
-<img src="https://i.imgur.com/DZkA3YW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Vxm9LXG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
   
   - Configure Help Topics
